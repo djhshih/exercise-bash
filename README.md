@@ -3,6 +3,7 @@
 ## Prerequisites
 
 ```
+gsutil
 bwa
 samtools
 bcftools
